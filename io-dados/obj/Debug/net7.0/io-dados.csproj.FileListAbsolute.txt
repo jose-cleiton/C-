@@ -1,0 +1,15 @@
+/Users/josecleiton/dev/C#/io-dados/obj/Debug/net7.0/io-dados.csproj.AssemblyReference.cache
+/Users/josecleiton/dev/C#/io-dados/obj/Debug/net7.0/io-dados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josecleiton/dev/C#/io-dados/obj/Debug/net7.0/io-dados.AssemblyInfoInputs.cache
+/Users/josecleiton/dev/C#/io-dados/obj/Debug/net7.0/io-dados.AssemblyInfo.cs
+/Users/josecleiton/dev/C#/io-dados/obj/Debug/net7.0/io-dados.csproj.CoreCompileInputs.cache
+/Users/josecleiton/dev/C#/io-dados/bin/Debug/net7.0/io-dados
+/Users/josecleiton/dev/C#/io-dados/bin/Debug/net7.0/io-dados.deps.json
+/Users/josecleiton/dev/C#/io-dados/bin/Debug/net7.0/io-dados.runtimeconfig.json
+/Users/josecleiton/dev/C#/io-dados/bin/Debug/net7.0/io-dados.dll
+/Users/josecleiton/dev/C#/io-dados/bin/Debug/net7.0/io-dados.pdb
+/Users/josecleiton/dev/C#/io-dados/obj/Debug/net7.0/io-dados.dll
+/Users/josecleiton/dev/C#/io-dados/obj/Debug/net7.0/refint/io-dados.dll
+/Users/josecleiton/dev/C#/io-dados/obj/Debug/net7.0/io-dados.pdb
+/Users/josecleiton/dev/C#/io-dados/obj/Debug/net7.0/io-dados.genruntimeconfig.cache
+/Users/josecleiton/dev/C#/io-dados/obj/Debug/net7.0/ref/io-dados.dll

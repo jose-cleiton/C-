@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/josecleiton/dev/C#/C#.csproj",
-      "projectName": "C#",
-      "projectPath": "/Users/josecleiton/dev/C#/C#.csproj",
+      "projectUniqueName": "/Users/josecleiton/dev/C#/io-dados/io-dados.csproj",
+      "projectName": "io-dados",
+      "projectPath": "/Users/josecleiton/dev/C#/io-dados/io-dados.csproj",
       "packagesPath": "/Users/josecleiton/.nuget/packages/",
-      "outputPath": "/Users/josecleiton/dev/C#/obj/",
+      "outputPath": "/Users/josecleiton/dev/C#/io-dados/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/josecleiton/.nuget/NuGet/NuGet.Config"

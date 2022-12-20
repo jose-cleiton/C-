@@ -1,0 +1,15 @@
+/Users/josecleiton/dev/C#/funcoes-sintax/obj/Debug/net7.0/funcoes-sintax.csproj.AssemblyReference.cache
+/Users/josecleiton/dev/C#/funcoes-sintax/obj/Debug/net7.0/funcoes-sintax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josecleiton/dev/C#/funcoes-sintax/obj/Debug/net7.0/funcoes-sintax.AssemblyInfoInputs.cache
+/Users/josecleiton/dev/C#/funcoes-sintax/obj/Debug/net7.0/funcoes-sintax.AssemblyInfo.cs
+/Users/josecleiton/dev/C#/funcoes-sintax/obj/Debug/net7.0/funcoes-sintax.csproj.CoreCompileInputs.cache
+/Users/josecleiton/dev/C#/funcoes-sintax/bin/Debug/net7.0/funcoes-sintax
+/Users/josecleiton/dev/C#/funcoes-sintax/bin/Debug/net7.0/funcoes-sintax.deps.json
+/Users/josecleiton/dev/C#/funcoes-sintax/bin/Debug/net7.0/funcoes-sintax.runtimeconfig.json
+/Users/josecleiton/dev/C#/funcoes-sintax/bin/Debug/net7.0/funcoes-sintax.dll
+/Users/josecleiton/dev/C#/funcoes-sintax/bin/Debug/net7.0/funcoes-sintax.pdb
+/Users/josecleiton/dev/C#/funcoes-sintax/obj/Debug/net7.0/funcoes-sintax.dll
+/Users/josecleiton/dev/C#/funcoes-sintax/obj/Debug/net7.0/refint/funcoes-sintax.dll
+/Users/josecleiton/dev/C#/funcoes-sintax/obj/Debug/net7.0/funcoes-sintax.pdb
+/Users/josecleiton/dev/C#/funcoes-sintax/obj/Debug/net7.0/funcoes-sintax.genruntimeconfig.cache
+/Users/josecleiton/dev/C#/funcoes-sintax/obj/Debug/net7.0/ref/funcoes-sintax.dll

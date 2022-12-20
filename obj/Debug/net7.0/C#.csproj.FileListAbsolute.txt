@@ -1,0 +1,5 @@
+/Users/josecleiton/dev/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/Users/josecleiton/dev/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josecleiton/dev/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/Users/josecleiton/dev/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/Users/josecleiton/dev/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache

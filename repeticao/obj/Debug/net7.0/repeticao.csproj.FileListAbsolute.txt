@@ -1,0 +1,15 @@
+/Users/josecleiton/dev/C#/repeticao/bin/Debug/net7.0/repeticao
+/Users/josecleiton/dev/C#/repeticao/bin/Debug/net7.0/repeticao.deps.json
+/Users/josecleiton/dev/C#/repeticao/bin/Debug/net7.0/repeticao.runtimeconfig.json
+/Users/josecleiton/dev/C#/repeticao/bin/Debug/net7.0/repeticao.dll
+/Users/josecleiton/dev/C#/repeticao/bin/Debug/net7.0/repeticao.pdb
+/Users/josecleiton/dev/C#/repeticao/obj/Debug/net7.0/repeticao.csproj.AssemblyReference.cache
+/Users/josecleiton/dev/C#/repeticao/obj/Debug/net7.0/repeticao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josecleiton/dev/C#/repeticao/obj/Debug/net7.0/repeticao.AssemblyInfoInputs.cache
+/Users/josecleiton/dev/C#/repeticao/obj/Debug/net7.0/repeticao.AssemblyInfo.cs
+/Users/josecleiton/dev/C#/repeticao/obj/Debug/net7.0/repeticao.csproj.CoreCompileInputs.cache
+/Users/josecleiton/dev/C#/repeticao/obj/Debug/net7.0/repeticao.dll
+/Users/josecleiton/dev/C#/repeticao/obj/Debug/net7.0/refint/repeticao.dll
+/Users/josecleiton/dev/C#/repeticao/obj/Debug/net7.0/repeticao.pdb
+/Users/josecleiton/dev/C#/repeticao/obj/Debug/net7.0/repeticao.genruntimeconfig.cache
+/Users/josecleiton/dev/C#/repeticao/obj/Debug/net7.0/ref/repeticao.dll

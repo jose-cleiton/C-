@@ -8,16 +8,12 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
             Console.WriteLine("Qual a hora?");
             int hora = int.Parse(Console.ReadLine());
-            if(hora<12){
-                Console.WriteLine("Bom dia!");
-            }
-            else if(hora>=12 && hora<18){
+            if(hora<12) Console.WriteLine("Bom dia!");
+            
+            else if(hora<18) Console.WriteLine("Baa tarde!");
+        
+            else  Console.WriteLine("Boa noite!");
 
-                Console.WriteLine("Baa tarde!");
-        }
-            else if(hora>=18){
-                Console.WriteLine("Boa noite!");
-}
         }
     }
 }

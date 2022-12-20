@@ -15,6 +15,10 @@ namespace Aula
 
             //CONECTIVOS LÓGICOS
 
+            bool a = true && true;
+
+            Console.WriteLine(a);
+
             int num = 0;
             Console.WriteLine("Informe um número no intervalo de 20 à 30.");
             num = Convert.ToInt32( Console.ReadLine() );

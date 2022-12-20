@@ -1,0 +1,15 @@
+/Users/josecleiton/dev/C#/if-else/bin/Debug/net7.0/if-else
+/Users/josecleiton/dev/C#/if-else/bin/Debug/net7.0/if-else.deps.json
+/Users/josecleiton/dev/C#/if-else/bin/Debug/net7.0/if-else.runtimeconfig.json
+/Users/josecleiton/dev/C#/if-else/bin/Debug/net7.0/if-else.dll
+/Users/josecleiton/dev/C#/if-else/bin/Debug/net7.0/if-else.pdb
+/Users/josecleiton/dev/C#/if-else/obj/Debug/net7.0/if-else.csproj.AssemblyReference.cache
+/Users/josecleiton/dev/C#/if-else/obj/Debug/net7.0/if-else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josecleiton/dev/C#/if-else/obj/Debug/net7.0/if-else.AssemblyInfoInputs.cache
+/Users/josecleiton/dev/C#/if-else/obj/Debug/net7.0/if-else.AssemblyInfo.cs
+/Users/josecleiton/dev/C#/if-else/obj/Debug/net7.0/if-else.csproj.CoreCompileInputs.cache
+/Users/josecleiton/dev/C#/if-else/obj/Debug/net7.0/if-else.dll
+/Users/josecleiton/dev/C#/if-else/obj/Debug/net7.0/refint/if-else.dll
+/Users/josecleiton/dev/C#/if-else/obj/Debug/net7.0/if-else.pdb
+/Users/josecleiton/dev/C#/if-else/obj/Debug/net7.0/if-else.genruntimeconfig.cache
+/Users/josecleiton/dev/C#/if-else/obj/Debug/net7.0/ref/if-else.dll

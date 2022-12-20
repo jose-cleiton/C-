@@ -1,0 +1,15 @@
+/Users/josecleiton/dev/C#/repeticao/while/bin/Debug/net7.0/while
+/Users/josecleiton/dev/C#/repeticao/while/bin/Debug/net7.0/while.deps.json
+/Users/josecleiton/dev/C#/repeticao/while/bin/Debug/net7.0/while.runtimeconfig.json
+/Users/josecleiton/dev/C#/repeticao/while/bin/Debug/net7.0/while.dll
+/Users/josecleiton/dev/C#/repeticao/while/bin/Debug/net7.0/while.pdb
+/Users/josecleiton/dev/C#/repeticao/while/obj/Debug/net7.0/while.csproj.AssemblyReference.cache
+/Users/josecleiton/dev/C#/repeticao/while/obj/Debug/net7.0/while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josecleiton/dev/C#/repeticao/while/obj/Debug/net7.0/while.AssemblyInfoInputs.cache
+/Users/josecleiton/dev/C#/repeticao/while/obj/Debug/net7.0/while.AssemblyInfo.cs
+/Users/josecleiton/dev/C#/repeticao/while/obj/Debug/net7.0/while.csproj.CoreCompileInputs.cache
+/Users/josecleiton/dev/C#/repeticao/while/obj/Debug/net7.0/while.dll
+/Users/josecleiton/dev/C#/repeticao/while/obj/Debug/net7.0/refint/while.dll
+/Users/josecleiton/dev/C#/repeticao/while/obj/Debug/net7.0/while.pdb
+/Users/josecleiton/dev/C#/repeticao/while/obj/Debug/net7.0/while.genruntimeconfig.cache
+/Users/josecleiton/dev/C#/repeticao/while/obj/Debug/net7.0/ref/while.dll
